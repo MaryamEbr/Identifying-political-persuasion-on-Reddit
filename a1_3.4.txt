@@ -1,0 +1,14 @@
+Kfold Accuracies: [0.415, 0.3614, 0.4504, 0.42, 0.4796]
+Kfold Accuracies: [0.3539, 0.3852, 0.4352, 0.4258, 0.4715]
+Kfold Accuracies: [0.3388, 0.4051, 0.4499, 0.43, 0.4714]
+Kfold Accuracies: [0.337, 0.3941, 0.4405, 0.41, 0.4694]
+Kfold Accuracies: [0.41, 0.4089, 0.4525, 0.4462, 0.4758]
+p-values: ['0.0027103220145189098', '0.00101399309785824', '0.0004310235107393619', '0.0011752001419647576']
+
+
+Last classifier, AdaBoostClassifier, is the best one in all cases. With the tests in this assignment AdaBoostClassifier
+results in better accuracy than other classifiers in all folds. It is also shown in the p values (<0.05)
+means that the test hypothesis is false and should be rejected. which means other classifiers
+can not have better performance than AdaBoostClassifier. the kfold accuraccies tell the same story.
+AdaBoostClassifier use an ensemble approach and it improves accuracy by combining weak classifiers.
+ccuracies because they sometimes have convergence issue due the lack of iterations.

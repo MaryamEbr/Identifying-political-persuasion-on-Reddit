@@ -1,0 +1,40 @@
+5 p-values: ['0.0', '1.632326205e-314', '5.180958488616487e-307', '1.1316631764202312e-287', '0.0']
+50 p-values: ['1.5654677547580348e-128', '0.0', '1.632326205e-314', '3.020894153249121e-218', '1.9288519069812792e-252', '4.6831215638445616e-79', '6.994829375983708e-179', '5.2202181032192076e-104', '5.180958488616487e-307', '4.014696848011527e-218', '7.014303340497105e-105', '1.702000760921095e-166', '7.551549467800205e-153', '1.1316631764202312e-287', '1.8373697113985944e-160', '1.2886225026042894e-75', '1.9726114198509522e-92', '1.6519110235570381e-108', '7.413083313029142e-132', '1.1538323392446522e-83', '3.0214529084600817e-115', '8.647009296184774e-130', '1.7888698283592528e-88', '1.8792616252888065e-91', '2.605183478850529e-130', '3.622813376814769e-95', '6.319864477386222e-84', '5.260076153760682e-188', '1.5906954203627266e-158', '1.530683241503895e-116', '1.5456473836320117e-143', '3.3363188904052313e-78', '3.78182878182271e-85', '2.119826006567753e-155', '1.197396041365685e-96', '1.1684112149422012e-102', '2.4208317796051586e-73', '2.4971039292356234e-133', '1.4343198803185667e-122', '0.0', '3.76387440065974e-92', '2.64589698589797e-71', '2.2041713902800956e-92', '6.814326539342897e-85', '7.641696974220582e-171', '6.7231695295627565e-133', '4.2436260909337684e-88', '2.9858515293291115e-85', '1.2011955947935201e-69', '6.899547141739805e-112']
+Accuracy for 1k: 0.3359
+Accuracy for full dataset: 0.3809
+Chosen feature intersection: [2, 21, 149]
+Top-5 at higher: [  1   2  11  21 149]
+
+
+1)  2: number of second_person pronouns
+    21: standard devisation of IMG from Bristol, Gilhooly, and Logie norms
+    149: receptiviti_independent
+
+second person pronouns like 'you' in this concept refer to others. it's probably showing some opinions or feelings of the writer toward other people. that's why it's important.
+feature 22 (index 21) is here probably because the imageability is important to classify political opinion.
+same is true for receptiviti_independent
+
+2)  32k p-values are smaller than 1k p-values
+    the p-values are generally getting lower when given more data
+
+    the p-values are getting lower with more data.
+    The larger the data size, the larger the accuracy of the statistical test, and therefore,
+    the stronger the evidence against or in favor of the null hypothesis. so the p value decreases.
+
+    (from: https://www.nature.com/articles/s41598-021-00199-5)
+
+    in other words as sample size increases, the uncertainty about the population decreases, so does the p value.
+
+
+3)  1: number of first-person pronouns
+    2: number of second_person pronouns
+    11: number of adverbs
+    21: standard devisation of IMG from Bristol, Gilhooly, and Logie norms
+    149: receptiviti_independent
+
+
+    in part one I talked about 3 of these features.
+    About number of first-person pronouns, I think it's important because it shows the writer's opinion about a subject
+    and the more first person pronouns probably means that the opinion is stronger or more serious.
+    adverb shows more information about other words. the more adverbs probably means there are more useful information in the comment
+    that we can use to classify it. So that's why it's important here.

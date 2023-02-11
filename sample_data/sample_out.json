@@ -1,0 +1,42 @@
+[
+  {
+    "id": "c0b5be3",
+    "body": "what/WDT kind/NN of/IN pie/NN ?/.\nnow/RB I/PRP be/VBP hungry/JJ !/.\n",
+    "cat": "Left"
+  },
+  {
+    "id": "c0b5o59",
+    "body": "I/PRP be/VBP go/VBG to/TO admit/VB ,/, as/RB much/RB as/IN I/PRP love/VBP the/DT /r/NN //SYM woman/NNS subreddit/NN ,/, I/PRP want/VBP to/TO indulge/VB in/IN the/DT less/RBR serious/JJ thing/NNS about/IN be/VBG girly/JJ ./.\n",
+    "cat": "Left"
+  },
+  {
+    "id": "c0b5x17",
+    "body": "I/PRP agree/VBP with/IN the/DT rest/NN of/IN the/DT group/NN ;/: I/PRP 've/VBP get/VBN like/UH 3/CD or/CC 4/CD bras/NN that/WDT I/PRP wear/VBP ALL/PDT the/DT time/NN ,/, but/CC I/PRP have/VBP like/UH 10/CD .../: some/DT be/VBP more/RBR pretty/JJ than/IN functional/JJ ./.\nalso/RB ,/, I/PRP just/RB want/VBP to/TO say/VB that/IN I/PRP be/VBP pretty/RB excited/JJ about/IN this/DT subreddit/NN !/.\n",
+    "cat": "Left"
+  },
+  {
+    "id": "c0b5ye6",
+    "body": "honestly/RB ,/, I/PRP dab/VBP a/DT tiny/JJ bit/NN of/IN [/-LRB- MAC/NNP foundation/NN stick/NN ]/-RRB- (/-LRB- and/CC blend/VB it/PRP in/RP ./.\nit/PRP work/VBZ just/RB fine/JJ for/IN i/PRP ./.\nI/PRP have/VBP use/VBN UD/NNP 's/POS product/NN ,/, and/CC I/PRP do/VBD really/RB like/VB it/PRP ,/, but/CC I/PRP run/VBD out/RP age/NNS ago/RB and/CC now/RB just/RB use/VB MAC/NNP ./.\n",
+    "cat": "Left"
+  },
+  {
+    "id": "c0b61z2",
+    "body": "hehe/UH ,/, I/PRP second/VBP this/DT ./.\nI/PRP ADORE/VBP clueless/NNP ./.\n",
+    "cat": "Left"
+  },
+  {
+    "id": "c0fnog9",
+    "body": "size/NN be/VBZ a/DT small/JJ part/NN of/IN a/DT fight/NN ./.\none/CD lucky/JJ punch/NN and/CC you/PRP could/MD be/VB incapacitate/VBN ,/, hospitalize/VBN even/RB kill/VBN ./.\nI/PRP 've/VBP see/VBN a/DT small/JJ guy/NN beat/VBD down/RP a/DT 6'6/NN 280/CD lb/NN dude/NN ./.\nI/PRP be/VBP sure/JJ [/XX gina/NNP curano/NNP ]/-RRB- (/-LRB- could/MD kill/VB or/CC seriously/RB injure/VB someone/NN with/IN a/DT strike/NN to/IN the/DT face/NN ./.\nshe/PRP s/VBZ tiny/JJ ./.\nsize/NN be/VBZ not/RB everything/NN ./.\nor/CC what/WP if/IN its/PRP$ a/DT fat/JJ girl/NN ?/.\neither/DT way/NN it/PRP come/VBZ down/RP to/IN this/DT my/PRP$ health/NN >/XX anyone/NN who/WP punch/VBZ i/PRP ./.\nI/PRP be/VBP go/VBG to/TO drop/VB they/PRP and/CC will/MD not/RB still/RB until/IN they/PRP stop/VBP or/CC can/MD not/RB continue/VB ./.\n",
+    "cat": "Left"
+  },
+  {
+    "id": "c18y24m",
+    "body": "forget/VB the/DT (/-LRB- very/RB valid/JJ )/-RRB- state/NN point/NN .../: you/PRP can/MD CHOOSE/VB not/RB to/TO drive/VB ./.\nbut/CC under/IN this/DT thing/NN ,/, you/PRP be/VBP require/VBN to/TO buy/VB a/DT private/JJ product/NN simply/RB by/IN be/VBG alive/JJ ./.\n",
+    "cat": "Center"
+  },
+  {
+    "id": "cbhkfn1",
+    "body": "laugh/VB all/DT you/PRP want/VBP ,/, black/NNS have/VBP always/RB be/VBN well/JJR off/RP in/IN american/NNP than/IN in/IN africa/NNP ./.\nit/PRP be/VBD true/JJ in/IN the/DT day/NNS when/WRB jews/NNPS be/VBD bring/VBG the/DT slave/NNS to/IN the/DT US/NNP to/TO sell/VB ,/, and/CC it/PRP be/VBZ still/RB true/JJ today/NN ./.\n",
+    "cat": "Right"
+  }
+]
